@@ -1,0 +1,29 @@
+body{
+    background-color: #000000;
+    color: white;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.container form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .number {
+    margin-left: 10px;
+    height: 15px;
+}
+
+.button{
+    width: 100px;
+    height: 20px;
+    margin-left: 10px;
+}
